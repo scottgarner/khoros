@@ -47,3 +47,7 @@ The pieces of Khoros are broken into individual repositories.
 * [khoros-unity](http://github.com/scottgarner/khoros-unity)
 
 	This is a simple implementation for Khoros for Unity along with some examples.
+
+### Credits
+
+Khoros was developed with support from [Object Normal](http://www.objectnormal.com/) and the [Media Research Lab](http://mrl.nyu.edu/) at NYU.
